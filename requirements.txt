@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pypdf
+rank-bm25
+openai
+python-dotenv
